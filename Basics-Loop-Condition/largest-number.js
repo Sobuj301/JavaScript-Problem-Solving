@@ -9,7 +9,6 @@ const numbers = [20, 40, 50, 60, 70, 80, 90, 10]
 
 let largestNumber = numbers[0]
 
-
 // option-1
 for (let i = 0; i < numbers.length; i++) {
     if (largestNumber < numbers[i]) {
