@@ -1,6 +1,4 @@
 
-// Reverse an array (without using built-in methods)
-// Remove duplicates from an array
 // Count how many times a number appears in an array
 // Create a new array with all elements doubled
 
