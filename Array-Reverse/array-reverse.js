@@ -1,8 +1,4 @@
 
-// Count how many times a number appears in an array
-// Create a new array with all elements doubled
-
-
 // Reverse an array (using loop)
 
 const friends = ["Green", "Jonh", "Red", "Yellow"]

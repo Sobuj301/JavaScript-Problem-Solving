@@ -17,12 +17,4 @@ for(const num of numbers){
 
 console.log(frequency)
 
-// Create a new array with all elements doubled
 
-
-function duplicateArray(elements){
-    for(const element of duplicateArray){
-        const double = element * 2
-    }
-}
-const duplicateArray = [...numbers]
